@@ -1,0 +1,48 @@
+Last login: Sun Nov 29 18:58:29 on ttys001
+Celestes-MacBook-Pro:~ celestewalley$  msd.xvg 
+-bash: msd.xvg: command not found
+Celestes-MacBook-Pro:~ celestewalley$ git msd.xvg
+git: 'msd.xvg' is not a git command. See 'git --help'.
+Celestes-MacBook-Pro:~ celestewalley$ nano pyruvate_kinase.pdb
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  GNU nano 2.0.6           File: pyruvate_kinase.pdb                  Modified  
+
+grep pword-pattern file(s)
+grep GLY pyruvate_kinase.pdb 
+grep pword-pattern file(s)
+grep CA pyruvate_kinase.pdb  
+cat filename/pattern | colrm Start-col# End-col# File
+cat msd.xvg | colrm 20 30 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Page ^K Cut Text  ^C Cur Pos
+^X Exit      ^J Justify   ^W Where Is  ^V Next Page ^U UnCut Text^T To Spell

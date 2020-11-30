@@ -1,0 +1,24 @@
+Last login: Sun Nov 29 19:13:58 on ttys001
+Celestes-MacBook-Pro:~ celestewalley$ cut –d "," –f 2 out.all.comma
+usage: cut -b list [-n] [file ...]
+       cut -c list [file ...]
+       cut -f list [-s] [-d delim] [file ...]
+Celestes-MacBook-Pro:~ celestewalley$ 
+Celestes-MacBook-Pro:~ celestewalley$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
